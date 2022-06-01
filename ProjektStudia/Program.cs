@@ -109,7 +109,7 @@ namespace ProjektStudia
               // Imie = "Marek",
               // Nazwisko = "Podraza",
                Nr_Pracownika = 321657,
-               Ilosc = 3 // To predict
+               Ilosc = 0 // To predict
             };
           
             var prediction = predictionFunction.Predict(productionSample);
